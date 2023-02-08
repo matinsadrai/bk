@@ -1,0 +1,103 @@
+body{
+  margin: 0;
+
+}
+h1{
+  margin: 0;
+  color:#66BFBF !important;
+  font-family: 'Pacifico', cursive;
+  font-size: 3em;
+  line-height: 5!important;
+}
+H2{
+  font-family: 'Poppins', sans-serif;
+  padding: 2%;
+  color:#66BFBF !important;
+}
+H3{
+color:#66BFBF !important;
+  font-family: 'Poppins', sans-serif;
+}
+p{
+  color: #1A4D2E;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  text-decoration: none!important;
+  line-height: 2;
+}
+a{
+  margin-left: 20px;
+text-decoration: none!important;
+}
+a:hover{
+  color: #F6FBF4!important;
+}
+.container{
+  margin: 0 !important;
+  }
+.navbar{
+
+  background-color: #BDF2D5;
+  margin: 0 !important;
+
+}
+
+.navbar-brand{
+  text-align: left!important;
+}
+.nav{
+  text-align: right!important;
+}
+.top{
+  background-color: #BDF2D5;
+  text-align: center;
+padding: 10% 0% 0%;
+}
+.hill{
+  position: relative;
+  top:30px;
+}
+.cloud1{
+  position: absolute;
+  right: 400px;
+  top:120px;
+}
+.cloud2{
+  position: absolute;
+  left: 400px;
+  top: 220px;
+}
+.middle-container{
+  text-align: center;
+  background-color: #CDF0EA;
+  padding: 5%;
+  margin: 0;
+}
+.skill-row{
+  text-align: left;
+  padding: 5%;
+  clear: left;
+  width: 60%;
+  margin:auto;
+}
+.skill{
+float: left;
+
+margin-right: 40px;
+}
+
+
+.pencil{
+  float: right;
+margin-left:  40px;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #4B8673;
+  margin: 0;
+  padding: 1%;
+}
+.footer-link{
+  padding: 10px;
+
+}
